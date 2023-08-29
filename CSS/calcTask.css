@@ -1,0 +1,28 @@
+.All {
+    margin: 20px auto;
+    background-color: #202020;
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    text-align: center;
+    padding: 20px 10px 10px;
+    border-radius: 10px;
+}
+button {
+    border: none;
+    outline: none;
+    display: inline-block;
+    background-color: #343132;
+    width: 100%;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+.digit{
+    background-color: #3d3a3d;
+}
+button:hover{
+    /* border: 1px solid white; */
+    background-color: #323232;
+    box-shadow: 1px 1px 0 0 white inset ;
+}
